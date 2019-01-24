@@ -10,7 +10,7 @@ int main()
     cin >> op;
 
     cout << "Enter two operands: ";
-    cin >> num1 >> num2;
+    cin >> num1 >> num2
 
     switch(op)
     {
